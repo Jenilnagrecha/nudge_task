@@ -1,9 +1,8 @@
 
 
-#About Single funiction:
+About Single funiction:
 
 As Mentioned in question 2 Screen and a single resuable componenet
-
 Single Reusable class:PopUpandNavigation
 
 How to use:
@@ -12,10 +11,14 @@ PopUpandNavigation popnav = PopUpandNavigation();
     popnav.showPopupBanner(context,width,RequiredBannerWidget,)
 
 This could be rendered anywhere in project
-
 Implemented it in home page as per requirement 
+<br />
+<br />
+<br />
+<br />
 
-#About Code
+
+About Code
 
 Used ShowDialog() to show baner onclick
 and Navigatior for changing page
