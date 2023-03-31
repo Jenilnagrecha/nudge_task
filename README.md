@@ -1,16 +1,28 @@
-# nudge_task
 
-A new Flutter project.
 
-## Getting Started
+#About Single funiction:
 
-This project is a starting point for a Flutter application.
+As Mentioned in question 2 Screen and a single resuable componenet
 
-A few resources to get you started if this is your first Flutter project:
+Single Reusable class:PopUpandNavigation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+How to use:
+PopUpandNavigation popnav = PopUpandNavigation();
+    popnav.goToNewPage(context, NexPage),
+    popnav.showPopupBanner(context,width,RequiredBannerWidget,)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This could be rendered anywhere in project
+
+Implemented it in home page as per requirement 
+
+#About Code
+
+Used ShowDialog() to show baner onclick
+and Navigatior for changing page
+
+If it was asked to implement it without usng ShowDialog then I would havee implemented it with Adding that banner in stack and using Provider State controller and Change notifier kind of class.
+
+Have standard contant resusabe widgits in seperate file
+
+
+
