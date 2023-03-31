@@ -10,7 +10,7 @@ PopUpandNavigation popnav = PopUpandNavigation();
     popnav.goToNewPage(context, NexPage),
     popnav.showPopupBanner(context,width,RequiredBannerWidget,)
 
-This could be rendered anywhere in project and to prove it i've added it to new page's center text
+This could be rendered anywhere in project and to prove it i've added it to new page's center text<br />
 Implemented it in home page as per requirement 
 <br />
 <br />
