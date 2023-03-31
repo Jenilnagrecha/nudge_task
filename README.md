@@ -18,7 +18,7 @@ Implemented it in home page as per requirement
 <br />
 
 
-About Code
+About Code:
 
 Used ShowDialog() to show baner onclick
 and Navigatior for changing page
